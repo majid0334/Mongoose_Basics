@@ -1,0 +1,15 @@
+{
+  "name": "mongoose-wokshop-4-grunder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoose-grunder.js",
+  "scripts": {
+    "devStart": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.0.5"
+  }
+}
